@@ -1,0 +1,13 @@
+sample_id,cell_type,treatment,replicate,concentration_uM
+Sample_1,U2OS,Drug_A,3,1
+Sample_2,U2OS,Drug_C,3,50
+Sample_3,HEK293,Drug_B,3,1
+Sample_4,Primary,Drug_C,2,10
+Sample_5,Primary,Drug_C,2,1
+Sample_6,HEK293,Drug_B,1,100
+Sample_7,HeLa,Drug_A,1,1
+Sample_8,HeLa,Control,3,0
+Sample_9,HEK293,Drug_A,1,1
+Sample_10,Primary,Control,2,10
+Sample_11,U2OS,Control,1,0
+Sample_12,HeLa,Drug_A,3,10

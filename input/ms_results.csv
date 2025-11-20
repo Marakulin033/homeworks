@@ -1,0 +1,11 @@
+sample_id,total_proteins,unique_peptides,contamination_level
+Sample_3,2820,13667,0.026
+Sample_9,1855,18456,0.07
+Sample_5,2618,10675,0.06
+Sample_11,2807,9937,0.062
+Sample_6,1961,15845,0.018
+Sample_8,2587,8186,0.014
+Sample_7,2381,10336,0.046
+Sample_1,2807,9359,0.018
+Sample_10,2729,13768,0.069
+Sample_12,1190,18106,0.012
